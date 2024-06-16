@@ -1,3 +1,10 @@
+// 
+// Question: Write a function sortNumbers that takes an array of numbers as input and returns a
+// new array with the numbers sorted in ascending order.
+// 
+
+// Answer
+
 function sortNumbers(arr) {
 
     return arr.slice().sort((a, b) => a - b);

@@ -1,3 +1,19 @@
+
+// Question: Write a function fibonacci that takes an integer n as input and returns the n-th
+// number in the Fibonacci sequence. The Fibonacci sequence starts with 0 and 1, and each
+// subsequent number is the sum of the previous two.
+
+
+
+// Answer
+
+
+
+
+
+
+
+
 function fibonacci(n) {
 
     if (n === 0) return 0;

@@ -1,3 +1,13 @@
+
+// Question: Write a function countCharacters that takes in a string and returns an object
+// containing the count of each character in the string.
+
+
+
+// Answer
+
+
+
 function countCharacters(str) {
 
     const charCount = {};
